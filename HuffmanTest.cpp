@@ -1,4 +1,4 @@
-#if 0
+
 #include"gtest/gtest.h"
 #include"Huffman.h"
 #include<stdio.h> 
@@ -68,4 +68,4 @@ int main(int argc, char* argv[])
 	getchar();
 	return a;
 }
-#endif
+
